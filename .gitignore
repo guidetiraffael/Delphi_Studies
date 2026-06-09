@@ -1,0 +1,12 @@
+# Ignorar pastas de compilação
+**/Win32/
+**/Win64/
+
+# Ignorar arquivos de configuração local e histórico
+*.local
+*.identcache
+*.stat
+
+# Ignorar arquivos compilados temporários
+*.dcu
+*.~*
